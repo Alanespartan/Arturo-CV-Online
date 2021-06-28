@@ -1,0 +1,18 @@
+Images used in this project were taken from:
+
+Chatbot Project Page:
+* https://www.cognillo.com/blog/wp-content/uploads/2019/05/Machine-Learning-Chatbots-What-You-Should-Know-about-Neural-Conversation-Agents.jpg
+* https://st3.depositphotos.com/8950810/17657/v/600/depositphotos_176577870-stock-illustration-cute-smiling-funny-robot-chat.jpg
+
+Image Classification Project Page:
+* https://aigeekprogrammer.com/wp-content/uploads/2019/10/Logistic-Regression-for-binary-classification.jpg
+
+Starcraft 2 Agent Project Page:
+* https://bnetcmsus-a.akamaihd.net/cms/blog_header/2g/2G4VZH5TIWJF1602720144046.jpg
+
+Silieri Project Page:
+* https://www.silieri.com
+
+Natgas Referidos Project Page:
+* https://pbs.twimg.com/media/Ej15tarXgAEZBJl.jpg:large
+* https://play.google.com/store/apps/details?id=mx.com.natgas.referidos&hl=es_MX&gl=US
